@@ -36,7 +36,7 @@ Here's a walkthrough of implemented user stories:
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with 
 EZGIF
-![me](https://github.com/ShubhranshJoshi/flixsterPart2/blob/master/Screen_recording_20260223_230604-ezgif.com-video-to-gif-converter.gif)
+![me](https://github.com/ShubhranshJoshi/fitbit2/blob/master/Screen_recording_20260302_232914-ezgif.com-video-to-gif-converter.gif)
 
 ## Notes
 
